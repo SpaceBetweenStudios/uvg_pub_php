@@ -12,10 +12,10 @@
 <meta content="Understanding Video Games by Space Between Studios." property="og:description" />
 <meta content="website" property="og:type" />
 <meta content="Understanding Video Games" property="og:site_name" />
-<meta content="http://www.understanding-videogames.com/assets/uvg_logo_512.png" property="og:image" />
+<meta content="http://www.understanding-videogames.com/img/uvg_logo_512.png" property="og:image" />
 
-<link href="/assets/application.css" media="screen" rel="stylesheet" type="text/css" />
-<!--<script src="/assets/application.js" type="text/javascript"></script>-->
+<link href="/css/application.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<script src="/js/application.js" type="text/javascript"></script>-->
 <script type='text/javascript'>
   //<![CDATA[
     var _gaq = _gaq || [];
@@ -37,7 +37,7 @@
 <body>
 <div id='fb-root'></div>
 <div id='maincontent'>
-<img alt="Understanding Video Games" src="/assets/uvg_web_mainlogo.png" />
+<img alt="Understanding Video Games" src="/img/uvg_web_mainlogo.png" />
 <p>&copy; <?php echo date("Y"); ?> <a href="http://www.spacebetweenstudios.com">Space Between Studios</a></p>
 </div>
 
